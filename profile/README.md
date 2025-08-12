@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋 We are a coding club from a Hong Kong secondary school
+🌈 We build products that solve problems
+👩‍💻 Feel free to check out our repositories to see our work!
+🍿 Fun facts - We only have 4 people in the club currently
+🧙 Follow our organization and email us at @everyone our email is stmargaretscodingclub@gmail.com password is stmargaretscodingclub@gmail.com
